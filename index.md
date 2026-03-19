@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>FDN Dev Repo</title>
-  <meta charset="utf-8">
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; background: #111; color: #eee; }
-    h1 { color: #ff66aa; }
-    .download-btn { background: #ff3366; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-size: 1.3em; }
-  </style>
 </head>
 <body>
 
